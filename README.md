@@ -1,10 +1,19 @@
-## In this project, I build up a Gamestore RESTful API with Express using try/catch blocks
+# Project Title 
+GameStore Project
 
-## With the help of tools like Postman, you can: 
-1. Get all video games
-2. Get video games by ID.
-3. Add video games.
-4. Update video games by ID.
-5. Delete video games by ID.
+## Description
+This project creates a RESTful API with Express using try/catch blocks. It also uses a body-parser to parse the body of a request.
 
-## Work in Progress: Creating a front end for the Gamestore using Vite
+## Installation
+- npm install
+- npm install nodemon
+- Add a script in your package.json to run "nodemon index.js"
+- Start by connecting to your database and adding some data to it!
+
+## Usage
+### With the help of tools like Postman, you can: 
+- Get all video games
+- Get video games by ID.
+- Add video games.
+- Update video games by ID.
+- Delete video games by ID.
